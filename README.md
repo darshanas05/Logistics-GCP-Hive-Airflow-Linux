@@ -1,4 +1,4 @@
-# Logistics-GCP-Hive-Airflow
+# Logistics_GCP_Hive_Airflow
 
 Greetings!
 
