@@ -4,7 +4,7 @@ Greetings!
 
 This project showcases the incremental loading of data from a CSV file into Hive and subsequently moves the processed file to an archived folder.
 
-Tech-Stack Utilized: GCP, Dataproc cluster, Google Storage, Hive, Airflow, Linux.
+**Tech-Stack Utilized:** GCP, Dataproc cluster, Google Storage, Cloud Composer, Hive, Airflow, Linux.
 
 **Explanation:**
 
